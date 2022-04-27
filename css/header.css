@@ -88,3 +88,70 @@ header {
     color: black;
     font-weight: 400;
 }
+
+#div{
+    color: var(--azulhover);
+    background-color: var(--azulhover);
+    padding: 3px;
+    margin-top: 0px;
+}
+
+main{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 800px;
+    margin: auto;
+}
+
+.p4{
+    color: var(--azulhover);
+    font-weight: 100;
+    font-size: 1.5em;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+span{
+    font-weight: 500;
+}
+
+.p5{
+    color: var(--laranja);
+    font-weight: 100;
+    font-size: 1.1em;
+    text-align: center;
+    line-height: 1.3;
+    margin-bottom: 30px;
+
+}
+
+.img1{
+    width: 100%;
+    height: 300px;
+}
+
+.img2{
+    width: 30%;
+    height: 300px
+}
+
+.flex{
+    display: flex;
+}
+
+.texto1{
+    margin-left: 25px;
+    line-height: 1.5;
+}
+
+.p6{
+    color: var(--azulhover);
+    font-weight: 400;
+    font-size: 2em;
+    margin-bottom: 25px;
+}
+
+#decoration{
+    color: var(--laranja);
+    text-decoration: underline;
+}
