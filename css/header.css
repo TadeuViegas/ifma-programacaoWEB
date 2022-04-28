@@ -98,8 +98,7 @@ header {
 
 main{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    max-width: 800px;
-    margin: auto;
+
 }
 
 .p4{
@@ -137,11 +136,13 @@ span{
 
 .flex{
     display: flex;
+    margin-bottom: 50px;
 }
 
 .texto1{
     margin-left: 25px;
     line-height: 1.5;
+
 }
 
 .p6{
@@ -154,4 +155,48 @@ span{
 #decoration{
     color: var(--laranja);
     text-decoration: underline;
+}
+
+#apresentation{
+    max-width: 800px;
+    margin: auto;
+
+}
+
+.servicos{
+    background-color: var(--azulhover);
+    height:500px;
+}
+
+h1::before{
+    content: url(/imagens/star-50h.png);
+}
+
+h1{
+    color: white;
+    padding: 50px 0 25px 0;
+    text-align: center;
+}
+
+.texto2{
+    color: white;
+    display: flex;
+    font-weight: 100;
+    max-width: 800px;
+    margin: auto;
+    line-height: 1.5;
+
+}
+
+.esquerda{
+    width: 50%;
+    margin-right: 50px;
+}
+
+.direita{
+    width: 50%;
+}
+
+h2{
+    font-size: 1.5em;
 }
