@@ -1,7 +1,7 @@
 # IFMA - Atividade HTML5 + CSS3
 
 ## 💭Descrição
-Site desenvolvido com fins educacionais na cadeira Programaçao WEB ministrada pelo professor João Carlos.
+Site desenvolvido com fins educacionais na cadeira Programação WEB ministrada pelo professor João Carlos.
 
 ## 🖥️Objetivo
 Desenvolver uma página com aparência profissional. Fazendo que com o resultado final fique semelhante a visualização da imagem (pagina.png) Assim consolidando os conhecimentos de HTML e CSS.
